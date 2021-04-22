@@ -27,3 +27,12 @@ console.log("The value of y : " + y);
 console.log("The value of z : " + z);
 console.log("The value of a : " + a);
 console.log("The value of b : " + b);
+
+//Task 0.3
+console.log("\nTask 0.3 ");
+
+function hello(str){
+    console.log("Hello " + str);
+}
+
+hello("Kgotlelelo");
